@@ -32,5 +32,3 @@ console.log(reverseWords(""));
 - Boş olmayan girişler için, cümleyi kelimeler dizisine ayırın.
 - Her kelimenin harflerini, kelimeyi karakterler dizisine ayırarak, bu diziyi tersine çevirerek ve sonra karakterleri tekrar birleştirerek ters çevirin.
 - Son olarak, ters çevrilen kelimeleri tek bir stringe birleştirin, kelimeler arasındaki boşlukları koruyarak.
-
-Bu versiyonu meydan okuma, adayların programlama becerilerinin yanı sıra kullanıcı deneyimine ve kenar durumlarının dikkatli bir şekilde ele alınmasına olan dikkatlerini test eder, yazılım geliştirme sürecinde kritik öneme sahip becerilerdir.
