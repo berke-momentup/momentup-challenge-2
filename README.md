@@ -16,14 +16,9 @@
 **Örnek Kullanım:**
 
 ```javascript
-console.log(reverseWords("JavaScript is awesome"));
-// Beklenen çıktı: "tpircSavaJ si emosewa"
-
-console.log(reverseWords("Hello, World!"));
-// Beklenen çıktı: "olleH, !dlroW"
-
-console.log(reverseWords(""));
-// Beklenen çıktı: "Lütfen bir cümle giriniz."
+reverseWords("JavaScript is awesome"); // "tpircSavaJ si emosewa"
+reverseWords("Hello, World!"); // "olleH, !dlroW"
+reverseWords(""); // "Lütfen bir cümle giriniz."
 ```
 
 **İpuçları:**
