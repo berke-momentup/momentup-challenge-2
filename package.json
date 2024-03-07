@@ -1,0 +1,14 @@
+{
+  "name": "momentup-challenge-2",
+  "version": "1.0.0",
+  "description": "**Amaç:** `reverseWords` JavaScript fonksiyonunu, bir cümledeki her kelimenin harflerini orijinal kelime sırasını koruyarak ters çevirmesi ve giriş stringi boş olduğunda belirli bir mesaj döndürmesi için modifiye edin.",
+  "main": "reverseWords.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
