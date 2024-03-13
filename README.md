@@ -17,7 +17,7 @@
 
 ```javascript
 reverseWords("JavaScript is awesome"); // "tpircSavaJ si emosewa"
-reverseWords("Hello, World!"); // "olleH, !dlroW"
+reverseWords("Hello, World!"); // ",olleH !dlroW"
 reverseWords(""); // "Lütfen bir cümle giriniz."
 ```
 
